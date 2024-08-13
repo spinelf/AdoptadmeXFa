@@ -1,6 +1,6 @@
 import os
 
-def encabezado():
+def encabezado():   # Detalle estético que se muestra en cada una de las pantallas :)
     
    print("  ##     #####     #####   ######   ######     ##              ##   ##  ##   ##              ####  ##   ##  ##   ##   ####     #####   ######")
    print(" ####     ## ##   ##   ##   ##  ##  # ## #    ####             ##   ##  ###  ##               ##   ##   ##  ###  ##    ##     ##   ##   ##  ##")
@@ -17,7 +17,7 @@ def menu():   #Este es el menú principal donde podemos controlar todas las opci
     os.system("cls")
     continuar =True
     while continuar:
-        opcionCorrecta =False   # Se ejecutará hasta que el usuario presione la opción 5 para salir.
+        opcionCorrecta =False   # Se ejecutará hasta que el usuario presione la opción 4 para salir.
         os.system("cls")
         while not opcionCorrecta:
             encabezado()
@@ -48,7 +48,7 @@ def menu():   #Este es el menú principal donde podemos controlar todas las opci
 
 def llamarOpcionCorrecta(opcion):  #Esta función nos permite llamar a las funciones que realizan las acciones seleccionadas por el usuario.
   
-    if opcion == 1:
+    if opcion == 1:      # Esta opción nos muestra la presentación de mi perfil
         
        os.system("cls")
        encabezado()
@@ -59,7 +59,7 @@ def llamarOpcionCorrecta(opcion):  #Esta función nos permite llamar a las funci
        os.system("cls")
  
         
-    elif opcion == 2:
+    elif opcion == 2:     # Esta opción nos muestra las motivaciones que me han llevado hasta aquí.
         
         os.system("cls")
         encabezado()
@@ -69,7 +69,7 @@ def llamarOpcionCorrecta(opcion):  #Esta función nos permite llamar a las funci
         input("Pulse Enter para continuar  ")
         os.system("cls")
         
-    elif opcion == 3:
+    elif opcion == 3:   # Esta opción nos muestra el link a mi repositorio Github
         os.system("cls")
         encabezado()
         print("")
@@ -78,7 +78,7 @@ def llamarOpcionCorrecta(opcion):  #Esta función nos permite llamar a las funci
         input("Pulse Enter para continuar  ")
         os.system("cls")  
   
-    elif opcion == 4:
+    elif opcion == 4:  # Pulsando la opción 4 salimos del programa
         
          quit()
 
@@ -102,7 +102,7 @@ def porqueAdoptarme():
     print("Os voy a presentar mis principales motivaciones para que me adopteís:")
     print(" ") 
     print("1. Me apasiona desde muy pequeña el mundo de los ordenadores y la tecnología")
-    print("2. Empece en la programación con 8 años pero al final mis estudios fueron por otro camino y he decidido que eso tiene que camnbiar y esta es mi opotunidad.")
+    print("2. Empece en la programación con 8 años pero al final mis estudios fueron por otro camino y he decidido que eso tenía que camnbiar y esta es mi opotunidad.")
     print("3. Ahora que he vuelto a retomar la progrmación me he dado cuenta de que es algo en lo que puedo estar horas ya que me encantan los desafios y el ser capaz de resolverlos")
     print("4. Disfruto colaborando con otros desarrolladores para crear proyectos, me encanta el trabajo en equipo.")
     print("5. Quiero aprender y crecer profesionalmente en un entorno que me permita desarrolar mis habilidades")
