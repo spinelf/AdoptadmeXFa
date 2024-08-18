@@ -1,4 +1,9 @@
 import os
+import webbrowser
+
+def abrir_curriculum(): #Funcion para abrir el curriculum PDF
+    ruta_pdf = "CVSilviaPinel.pdf"
+    webbrouser.open(ruta_pdf)
 
 def encabezado():   # Detalle estético que se muestra en cada una de las pantallas :)
     
@@ -17,7 +22,7 @@ def menu():   #Este es el menú principal donde podemos controlar todas las opci
     os.system("cls")
     continuar =True
     while continuar:
-        opcionCorrecta =False   # Se ejecutará hasta que el usuario presione la opción 4 para salir.
+        opcionCorrecta =False   # Se ejecutará hasta que el usuario presione la opción 5 para salir.
         os.system("cls")
         while not opcionCorrecta:
             encabezado()
@@ -31,11 +36,12 @@ def menu():   #Este es el menú principal donde podemos controlar todas las opci
             print("1. Me presento")
             print("2. Ver mis motivaciones para entrar en el grupo de trabajo")
             print("3. Ir a mi repositorio")
-            print("4. Salir")
+            print("4. Ver mi curriculum en PDF")
+            print("5. Salir")
             
             opcion= int(input("Elige una opción:  "))
             
-            if opcion <1 or opcion >4:
+            if opcion <1 or opcion >5:
                  print("La opción introducida no esta disponible")
             
             elif opcion ==9:
@@ -77,8 +83,18 @@ def llamarOpcionCorrecta(opcion):  #Esta función nos permite llamar a las funci
         print("")
         input("Pulse Enter para continuar  ")
         os.system("cls")  
-  
-    elif opcion == 4:  # Pulsando la opción 4 salimos del programa
+    
+    elif option==4: #Esta opcion abre mi curriculum en PDF
+        os.system("cls")
+        encabezado()
+        print("")
+        abrir_curriculum()
+        print("")
+        input("Pulse Enter para continuar")
+        os.system("cls")
+
+    
+    elif opcion == 5:  # Pulsando la opción 4 salimos del programa
         
          quit()
 
