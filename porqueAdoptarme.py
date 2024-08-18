@@ -3,7 +3,7 @@ import webbrowser
 
 def abrir_curriculum(): #Funcion para abrir el curriculum PDF
     ruta_pdf = "CVSilviaPinel.pdf"
-    webbrouser.open(ruta_pdf)
+    webbrowser.open(ruta_pdf)
 
 def encabezado():   # Detalle estético que se muestra en cada una de las pantallas :)
     
@@ -84,7 +84,7 @@ def llamarOpcionCorrecta(opcion):  #Esta función nos permite llamar a las funci
         input("Pulse Enter para continuar  ")
         os.system("cls")  
     
-    elif option==4: #Esta opcion abre mi curriculum en PDF
+    elif opcion==4: #Esta opcion abre mi curriculum en PDF
         os.system("cls")
         encabezado()
         print("")
