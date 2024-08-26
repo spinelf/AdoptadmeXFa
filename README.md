@@ -54,6 +54,17 @@ Vemos como vamos a distribuir las tareas por semanas:
 El proeycto consiste en un programa desarrollado en Python que nos permite elegir una serie de opciones:
 
 
+<img width="604" alt="Menu" src="https://github.com/user-attachments/assets/dbd59ac5-1305-47fc-a0ff-55d43200bd06">
+
+    Si pulsamos en:
+
+      - La opción 1 sale una pequeña presentación de mi persona.
+      - En la opción 2 podemos ver las motivaciones que me llevaron a esta aventura.
+      - En la 3 se puede consultar mi repositorio donde se encuentran otros proyectos en los que he trabajado.
+      - La opción 4 para ver mi curriculum completo y
+      - Por último la opción 5 para salir del programa.
+
+
 
 
 ## 🤝 Contribuciones
