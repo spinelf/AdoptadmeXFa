@@ -64,10 +64,40 @@ El proeycto consiste en un programa desarrollado en Python que nos permite elegi
       - La opción 4 para ver mi curriculum completo y
       - Por último la opción 5 para salir del programa.
 
+Proyecto realizado en:
+ 
+  <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
+
+  <img width="75px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Icon" />
 
 
+## Como ejecutarlo
 
+1. **Clona el repositorio**:
+   ```bash
+   git clone https://github.com/tu_usuario/tu_repositorio.git
+   ```
+2. **Abre el proyecto en el IDE que utilices**:
+
+   ```bash
+   En mi caso utilizo Visual Studio Code. Una vez que lo tengamos abierto abrimos una terminal.
+   ```
+   Nota: Para ejecutar el programa es necesario tener instalado Python en el sistema, si no lo tienes instalado pincha [Aquí](https://learn.microsoft.com/es-es/visualstudio/python/tutorial-working-with-python-in-visual-studio-step-01-create-project?view=vs-2022)
+
+4. **Abre un terminal**:
+   ```bash
+   escribimos en la terminal la instrucción: python porqueAdoptarme.py y ya nos debe salir el menu!!!
+   ```
+
+5. **Consulta lo que necesites navegando por el menú**:
+   ```bash
+   elegimos las distintas opciones, pulsando una tecla en el momento que hayamos leido la información para volver al menú principal. Pulsar 5 para salir.
+   ```
 ## 🤝 Contribuciones
 
 En este proyecto he tenido la colaboración de Jorge Guillén (https://github.com/Valnarg) que me ayudó a resolver el issue propuesto que consistía en añadir una opción
 en el menú del programa que permitía leer el curriculum directamente desde python. 
+
+## 👩‍ ¿Por qué debería ser seleccionada?
+
+
