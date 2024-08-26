@@ -96,8 +96,16 @@ Proyecto realizado en:
 ## 🤝 Contribuciones
 
 En este proyecto he tenido la colaboración de Jorge Guillén (https://github.com/Valnarg) que me ayudó a resolver el issue propuesto que consistía en añadir una opción
-en el menú del programa que permitía leer el curriculum directamente desde python. 
+en el menú del programa que permitía leer el curriculum directamente desde python.
 
-## 👩‍ ¿Por qué debería ser seleccionada?
+Puedes consultar el Pull Request aquí https://github.com/spinelf/AdoptadmeXFa/pull/2
+
+## 👩‍ ¿Por qué debería ser seleccionada para los grupo de Backend?
+
+- Tengo gran motivación y ganas de aprender: Siempre he sido una persona muy inquieta y nunca he dejado de estudiar cosas nuevas. Persona curiosa donde las haya, me encantan los desafios
+  y ser capaz de resolverlos. Siempe dispuesta a invertir el tiempo necesario.
+- Soy una persona organizada, constante y con buena gestión del tiempo lo que me permite cumplir con los plazos establecidos.
+- Me encanta trabajar en equipo, 
+- 
 
 
