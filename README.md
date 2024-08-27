@@ -103,9 +103,23 @@ Puedes consultar el Pull Request aquí https://github.com/spinelf/AdoptadmeXFa/p
 ## 👩‍ ¿Por qué debería ser seleccionada para los grupo de Backend?
 
 - Tengo gran motivación y ganas de aprender: Siempre he sido una persona muy inquieta y nunca he dejado de estudiar cosas nuevas. Persona curiosa donde las haya, me encantan los desafios
-  y ser capaz de resolverlos. Siempe dispuesta a invertir el tiempo necesario.
-- Soy una persona organizada, constante y con buena gestión del tiempo lo que me permite cumplir con los plazos establecidos.
-- Me encanta trabajar en equipo, 
-- 
+  y ser capaz de resolverlos. Siempre comprometida con los proyectos que llevo a cabo.
+- Soy una persona organizada, constante y con buena gestión del tiempo.
+- Me encanta trabajar en equipo,poder aprender de otros profesionales y aportar mis conocimientos en cada uno de los proyectos. 
+- Creo que es una oportunidad única de poder vencer los miedos ya que aunque es una experiencia cercana a lo que e trabajar en una empresa nos arropamos entre todos y no te sientes
+  perdido, es lo bueno de una comunidad.
+- Me encantaría poder conseguir experiencia con vosotros para luego poder mentorizar a otros participantes y ayudarles a conseguir su primer empleo.
 
+Muchas gracias por visitar mi perfil!
+
+## Contacto
+
+Cualquier cosa no dudeis en poneros en contacto conmigo.
+
+<p>
+  <a href="https://www.linkedin.com/in/silviapiñel" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn Silvia Piñel
+  </a> &nbsp; 
+ 
+</p>
 
