@@ -2,7 +2,7 @@
 
 <h1> Repositorio para acceso a los grupos de trabajo de AdoptaUnJunior Backend </h1>
 
-<p> Buenas!!! Estas es mi repositorio para optar a los grupos de trabajo de AdoptaUnJunior Backend, mi nombre es Silvia Piñel (https://www.linkedin.com/in/silviapiñel), soy Desarrolladora Full Stack y Analista de Datos</p>
+<p> Buenas!!! Estas es mi repositorio para optar a los grupos de trabajo de AdoptaUnJunior Backend, mi nombre es Silvia Piñel, soy Desarrolladora Full Stack y Analista de Datos. Me encanta el mundo de la programación y los datos</p>
 
 El reto consiste en hacer una serie de tareas por semanas para poder ser seleccionado para trabajar en los Grupos de Trabajo de AdoptaUnJunior.
 
